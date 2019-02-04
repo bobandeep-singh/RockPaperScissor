@@ -97,3 +97,13 @@ body {
     border: 4px solid grey;
     box-shadow: 0 0 10px rgb(10, 82, 76);
 }
+
+.boban-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
