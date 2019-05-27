@@ -1,3 +1,3 @@
 # RockPaperScissor
 
-Just a sample program in JavaScript
+Sample program in JavaScript to play Rock Paper Scissor.
